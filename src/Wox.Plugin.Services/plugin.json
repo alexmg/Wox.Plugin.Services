@@ -1,0 +1,12 @@
+﻿{
+  "ID": "19B034C9F1004438BD372B84D7473C5B",
+  "ActionKeyword": "service",
+  "Name": "Service Controller",
+  "Description": "Stop and start Windows Services from Wox",
+  "Author": "Alex Meyer-Gleaves",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "http://alexmg.com",
+  "IcoPath": "Images\\blue.png",
+  "ExecuteFileName": "Wox.Plugin.Services.dll"
+}
